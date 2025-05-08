@@ -34,6 +34,7 @@ This contract is entered into by the undersigned individual (“the Member”) a
 - **Sakodas**
 - **Housing Hub**
 - **AGOP (A Group Of People)**
+- **FCM Network**
 
 3.2 Refusal to comply with mockery directives will be treated as an act of **emotional disloyalty** and may result in punishment.
 
